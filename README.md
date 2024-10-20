@@ -1,6 +1,6 @@
-# 🌱 Compostify - Simplifying Sustainable Waste Management 🌱
+# 🌱 SustainFlow - Simplifying Sustainable Waste Management 🌱
 
-- [🌱 Compostify - Simplifying Sustainable Waste Management 🌱](#-compostify---simplifying-sustainable-waste-management-)
+- [🌱 SustainFlow - Simplifying Sustainable Waste Management 🌱](#-SustainFlow---simplifying-sustainable-waste-management-)
   - [Introduction](#introduction)
   - [Use Cases](#use-cases)
   - [Showstopper Features](#showstopper-features)
@@ -11,37 +11,37 @@
   - [Team](#team)
 
 ## Introduction
-Compostify is a revolutionary platform designed to streamline waste management practices, with a particular focus on composting and reducing food wastage. By providing a user-friendly interface and innovative features, Compostify aims to empower individuals, businesses, and organizations to make a positive impact on the environment.
+SustainFlow is a revolutionary platform designed to streamline waste management practices, with a particular focus on composting and reducing food wastage. By providing a user-friendly interface and innovative features, SustainFlow aims to empower individuals, businesses, and organizations to make a positive impact on the environment.
 
 ## Use Cases
 - **Effortless Waste Management**:
-  - Compostify simplifies waste management with its intuitive login interface and GPS integration. Users can easily locate nearby compost agencies or NGOs for efficient disposal of leftover food.
+  - SustainFlow simplifies waste management with its intuitive login interface and GPS integration. Users can easily locate nearby compost agencies or NGOs for efficient disposal of leftover food.
   - The integrated chatbot offers personalized suggestions, ensuring users receive tailored assistance for their waste management needs.
 
 - **Community Events and Restaurants with Surplus Food**:
-  - In areas where community events and restaurants produce surplus food, Compostify serves as a connection hub between these entities and NGOs or compost agencies, minimizing food wastage.
+  - In areas where community events and restaurants produce surplus food, SustainFlow serves as a connection hub between these entities and NGOs or compost agencies, minimizing food wastage.
 
 - **Govt. Scheme "Madhyan Bhojan" Surplus Food**:
-  - Compostify facilitates the redistribution of surplus food from government schemes like "Madhyan Bhojan" to other NGOs and agencies, ensuring no food goes to waste.
+  - SustainFlow facilitates the redistribution of surplus food from government schemes like "Madhyan Bhojan" to other NGOs and agencies, ensuring no food goes to waste.
 
 - **Vegetable Market**:
-  - Vendors and handlers at vegetable markets can utilize Compostify to manage rotten vegetables by directing them to compost agencies for proper disposal.
+  - Vendors and handlers at vegetable markets can utilize SustainFlow to manage rotten vegetables by directing them to compost agencies for proper disposal.
 
 ## Showstopper Features
 - **Innovative Points-based Reward System**:
-  - Compostify incentivizes user participation through an automatic generation of reward points-based system, encouraging sustainable practices.
+  - SustainFlow incentivizes user participation through an automatic generation of reward points-based system, encouraging sustainable practices.
 
 - **Smart Routing, Smart Impact**:
   - Intelligent routing algorithms ensure efficient transportation of donated food, minimizing resource wastage and maximizing impact.
 
 - **Collaborative Network**:
-  - Compostify fosters collaboration among users, NGOs, and composting agencies, creating a more sustainable food ecosystem.
+  - SustainFlow fosters collaboration among users, NGOs, and composting agencies, creating a more sustainable food ecosystem.
 
 - **Resource Optimization**:
-  - Compostify minimizes resource wastage by efficiently matching surplus food with organizations in need, thereby reducing environmental footprint.
+  - SustainFlow minimizes resource wastage by efficiently matching surplus food with organizations in need, thereby reducing environmental footprint.
 
 - **Interactive Chatbot Assistance**:
-  - Compostify's integrated AI-powered 24/7 hotline chatbot provides real-time guidance on handling leftover or soon-to-expire food, offering suggestions for donation, composting, or other sustainable disposal methods.
+  - SustainFlow's integrated AI-powered 24/7 hotline chatbot provides real-time guidance on handling leftover or soon-to-expire food, offering suggestions for donation, composting, or other sustainable disposal methods.
 
 ## Technologies
 - HTML
@@ -56,9 +56,9 @@ Compostify is a revolutionary platform designed to streamline waste management p
 - Bootstrap
 
 ## Demo
-You can explore the functionalities of Compostify by visiting our website using the following link:
+You can explore the functionalities of SustainFlow by visiting our website using the following link:
 
-   https://compostify.vercel.app/
+   https://SustainFlow.vercel.app/
 
 ### Features Showcase
 
@@ -109,6 +109,6 @@ You can explore the functionalities of Compostify by visiting our website using 
 5. Jenil Goswami
 6. Jeet Patel
 
-🌱💚Together, let's compostify our world for a greener future!💚🌱
+🌱💚Together, let's SustainFlow our world for a greener future!💚🌱
 
 Thank you for your interest! 🌟✨
